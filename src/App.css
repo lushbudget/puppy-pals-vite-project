@@ -1,0 +1,36 @@
+body {
+  background-color: aquamarine;
+}
+h1 {
+  text-align: center;
+  background-color: antiquewhite;
+  border-radius: 100px;
+  border: double 10px red;
+  margin: 2 em;
+}
+
+#allPupDiv {
+  text-align: center;
+  background-color: antiquewhite;
+  border-radius: 100px;
+  border: double 10px red;
+
+}
+h2 {
+  color: brown;
+}
+h3 {
+  color: rgb(167, 90, 103);
+}
+p {
+  transition: 1s;
+}
+
+p:hover {
+  background-image: linear-gradient(pink, antiquewhite);
+  border-width: 3em;
+  border-radius: 100px;
+  padding: 20px;
+  font-size: 150%
+
+}
